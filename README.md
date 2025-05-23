@@ -1,10 +1,10 @@
 # relativity_basics_notebook
 
 ## Relativity_Basics_Notebook : A Google Colab Notebook
-Explore fundamental concepts in special relativity with interactive Python-based visualizations
+Explore fundamental concepts in special relativity with interactive Python-based visualizations!
 
 ## Overview
-This repository contains a Google Colab notebook that demonstrates key topics in special relativity using Python (numpy and matplotlib)
+Welcome to this Relativity Basics Notebook! This repository contains a Google Colab notebook that demonstrates key ideas in special relativity using Python (numpy and matplotlib) visualizations and coding snippets. This project provides a hands-on approach to Einstein's theories to help users experiment with and learn about fundamental relativistic effects in real time, which also allows them to strengthen their intuition and conceptual understnading of these topics.
 
 ## Files Included
 'Relativity_Basics_Notebook.ipynb' : The main Google Colab notebook
@@ -12,11 +12,22 @@ This repository contains a Google Colab notebook that demonstrates key topics in
 'table_redshifts.csv' : Supporting dataset for the Doppler Shift section's code snippet
 
 ## How to Use
-Open and save a COPY of the notebook in Google Colab
+Open and save a COPY of the notebook in Google Colab (no local installation required!).
 
-Run the cells to visualize graphs of the topics discussed
+Read the explanations accompanying each section to deepen understanding.
 
-Modify parameters to explore how they affect the relevant relativistic effects
+Run the cells step-by-step to visualize effects of the topics discussed.
+
+Modify parameters to explore how they affect the relevant relativistic effects.
+
+## Features
+Interactive Python code to simulate relativistic scenarios
+
+Visualizations for time dilation, length contraction, relativistic momentum, spacetime diagrams, and more!
+
+Numerical simulations of relativistic energy
+
+Real-world applications (ex. GPS corrections)
 
 ## Topics Covered
 Introduction to Relativity and the Lorentz Factor
@@ -40,5 +51,6 @@ Brief Introduction to General Relativity
 Black Holes and Relativity
 
 
+## Additional Notes
 
 Have fun exploring!
