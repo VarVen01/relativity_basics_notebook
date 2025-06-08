@@ -4,7 +4,7 @@
 Explore fundamental concepts in special relativity with interactive Python-based visualizations!
 
 ## Overview
-Welcome to this Relativity Basics Notebook! This repository contains a Google Colab notebook that demonstrates key ideas in special relativity using Python (numpy and matplotlib) visualizations and coding snippets. This project provides a hands-on approach to Einstein's theories to help users experiment with and learn about fundamental relativistic effects in real time, which also allows them to strengthen their intuition and conceptual understnading of these topics.
+Welcome to this Relativity Basics Notebook! This repository contains a Google Colab notebook that demonstrates key ideas in special relativity using Python (numpy and matplotlib) visualizations and coding snippets. This project provides a hands-on approach to Einstein's theories to help users experiment with and learn about fundamental relativistic effects in real time, which also allows them to strengthen their intuition and conceptual understanding of these topics.
 
 ## Files Included
 'Relativity_Basics_Notebook.ipynb' : The main Google Colab notebook
