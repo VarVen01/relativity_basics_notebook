@@ -50,6 +50,17 @@ Brief Introduction to General Relativity
 
 Black Holes and Relativity
 
+## Questions?
+Have any questions, feedback, or suggestions? Feel free to:
+
+Open an issue on this repository (click the "Issues" tab above)
+
+Fork the repository and submit a pull request with improvements
+
+Reach out in relevant GitHub discussions or forums
+
+Your comments and insights are always welcome!
+
 
 ## Additional Notes
 
