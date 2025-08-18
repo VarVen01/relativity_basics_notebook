@@ -63,7 +63,7 @@ Your comments and insights are always welcome!
 
 ## AI Assistance
 
-Parts of this project were developed with the help of AI tools (e.g., GitHub Copilot, Microsoft Copilot, etc.) to generate code suggestions, refactor logic, and improve documentation. All code has been reviewed and tested by the author.
+Parts of this project were developed with the help of AI tools to generate code suggestions, refactor logic, and improve documentation. All code has been reviewed and tested by the author.
 
 ## Additional Notes
 
